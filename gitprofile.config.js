@@ -91,9 +91,9 @@ const config = {
       link: 'https://example.com',
     },
     {
-      title: 'Project Name',
+      title: 'Asterisk using Virtualbox',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Implementation of Asterisk server over a Virtual Machine using Virtualbox. February 2022',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
