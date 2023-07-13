@@ -68,16 +68,16 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Durham College',
+      degree: 'Data Analytics for Business Decision Making',
+      from: 'January 2023',
+      to: 'August 2023',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Humber College',
+      degree: 'Wireless Telecommunications',
+      from: 'January 2022',
+      to: 'August 2022',
     },
   ],
 
