@@ -94,7 +94,7 @@ const config = {
       title: 'Asterisk using Virtualbox',
       description:
         'Implementation of Asterisk server over a Virtual Machine using Virtualbox. February 2022',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: ' https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
   ],
