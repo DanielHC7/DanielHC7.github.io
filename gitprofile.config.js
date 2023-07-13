@@ -84,9 +84,9 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Load Balancers in Cloud',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Implementation of Application Load Balancers over AWS and Azure clouds. August 2022',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
