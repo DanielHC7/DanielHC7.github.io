@@ -14,7 +14,7 @@ const config = {
     linkedin: 'dhuertasc',
     twitter: '',
     mastodon: '',
-    facebook: '',
+    facebook: 'Daniel Huertas',
     instagram: '',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
@@ -30,31 +30,25 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
+    'Python',
+    'R',
     'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'Power BI',
+    'Tableau Desktop',
+    'VMWare',
+    'Fusion Sphere',
+    'Linux',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'America Movil',
+      position: 'Sr Network Planning Engineer',
+      from: 'August 2008',
+      to: 'December 2021',
+      companyLink: 'https://www.claro.com.pe',
     },
     {
       company: 'Company Name',
