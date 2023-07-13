@@ -51,11 +51,11 @@ const config = {
       companyLink: 'https://www.claro.com.pe',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Telecom Italia Mobile',
+      position: 'Sr VAS Network Planning Engineer',
+      from: 'February 2001',
+      to: 'August 2008',
+      companyLink: 'https://www.tim.it',
     },
   ],
   /* certifications: [
