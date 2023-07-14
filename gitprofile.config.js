@@ -41,6 +41,8 @@ const config = {
     'VMWare',
     'Fusion Sphere',
     'Linux',
+    'AWS',
+    'Azure',
   ],
   experiences: [
     {
