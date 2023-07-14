@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'dhuertasc',
+    linkedin: 'daniel-huertas-',
     twitter: '',
     mastodon: '',
     facebook: 'Daniel Huertas',
